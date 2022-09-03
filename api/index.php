@@ -1,3 +1,3 @@
 <?php
-echo ($_ENV["EXEMPLE"])
+echo ($_ENV["EXEMPLE"]);
 phpinfo();
